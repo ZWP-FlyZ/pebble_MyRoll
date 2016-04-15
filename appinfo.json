@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "1258271806@qq.com",
+    "enableMultiJS": true,
+    "longName": "MyRoll",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MyRoll",
+    "uuid": "1cbac8d7-b854-4df3-93d5-a16ceec75f68",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
