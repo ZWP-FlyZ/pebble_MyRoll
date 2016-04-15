@@ -8,7 +8,20 @@
     "longName": "MyRoll",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/coin_reve.png",
+                "name": "IMAGE_COIN_REVE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/coin_head.png",
+                "name": "IMAGE_COIN_HEADS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "MyRoll",
